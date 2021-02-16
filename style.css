@@ -108,4 +108,7 @@ body {
     .form {
         width: 90%;
     }
+    .countdown span {
+        font-size: 30px;
+    }
 }
